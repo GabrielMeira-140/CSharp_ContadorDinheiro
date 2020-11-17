@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\obj\Debug\notasmoedas.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\obj\Debug\notasmoedas.Form1.resources
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\obj\Debug\notasmoedas.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\obj\Debug\notasmoedas.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\obj\Debug\notasmoedas.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\bin\Debug\notasmoedas.exe.config
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\bin\Debug\notasmoedas.exe
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\bin\Debug\notasmoedas.pdb
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\obj\Debug\notasmoedas.exe
+C:\Users\Gabriel\Desktop\notasmoedas\notasmoedas\obj\Debug\notasmoedas.pdb
